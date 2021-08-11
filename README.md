@@ -143,3 +143,4 @@ Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/vid
 # udacity_project2
 # udacity_starNotary
 # udacity_project2
+# udacity_starNotary
